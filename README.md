@@ -62,7 +62,7 @@ brew install gcc
 
 **On Windows:**
 
-- Install [MinGW](http://www.mingw.org/) or use [Dev C++](https://www.bloodshed.net/devcpp.html)
+- Install [MinGW](https://sourceforge.net/projects/mingw/) or use [Dev C++](https://www.dev-cpp.com/)
 
 ---
 
@@ -454,7 +454,7 @@ Want to improve this repository? Contributions are welcome!
 
 ### Video Tutorials
 
-- [MIT OpenCourseWare - Introduction to Algorithms](https://ocw.mit.edu/)
+- [MIT OpenCourseWare](https://ocw.mit.edu/)
 
 ### Development Tools
 
