@@ -66,7 +66,7 @@ int main()
 
     while (1)
     {
-        printf("\n--- Static Stack Menu ---\n");
+        printf("\n--- Dynamic Stack Menu ---\n");
         printf("1. Initialize the stack\n2. Push\n3. Pop\n4. Display\n5. Exit\nChoice: ");
         scanf("%d", &choice);
 
